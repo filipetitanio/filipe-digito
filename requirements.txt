@@ -1,6 +1,6 @@
 streamlit==1.24.0
 numpy==1.26.4
-pillow==9.5.0
+pillow==9.4.0
 joblib==1.4.2
 scikit-learn==1.5.0
 streamlit-drawable-canvas==0.9.3
